@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/CMakeFiles/bootloader
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/CMakeFiles/bootloader.rule
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/CMakeFiles/bootloader-complete.rule
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/insoo/esp/esp-idf/examples/peripherals/uart/uart_echo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
